@@ -13,3 +13,4 @@ Below is a list of people who you can reach out to and provide some background.
 | Shana | ssnarrenberg@mcw.edu | |
 | Peter | pezhang@mcw.edu | My background is in Statistics and I work primarily in R. I also have some knowledge in C++ and some maching learning topics |
 | Kyler | kscrawford@mcw.edu | I am a structural biologist using techniques like NMR to study cancer signaling proteins. My research relies on protein visualization and modeling using applications like Pymol and Rosetta.
+| Ryan | rjbrown@mcw.edu | I primarily study the immune system through single cell sequencing techniques such as scRNA-seq, scATAC-seq, and scTCR-seq. I am currently learning how to investigate Hi-C and CUT&TAG data. I analyize this data through commmonly available packages in R, Python, and Linux terminal.
